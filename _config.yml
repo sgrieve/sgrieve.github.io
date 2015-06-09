@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Code blog
+title:            Geomorphology coding blog
 tagline:          'A record of my stupidity'
 description:      'A blog to keep track of my mistakes.'
 url:              http://sgrieve.github.com
