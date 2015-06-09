@@ -1,4 +1,4 @@
-.highlight .hll { background-color: #00008B; }
+.highlight .hll { background-color: #ffc; }
 .highlight .c { color: #999; } /* Comment */
 .highlight .err { color: #a00; background-color: #faa } /* Error */
 .highlight .k { color: #069; } /* Keyword */
@@ -41,7 +41,7 @@
 .highlight .w { color: #bbb } /* Text.Whitespace */
 .highlight .mf { color: #f60 } /* Literal.Number.Float */
 .highlight .mh { color: #f60 } /* Literal.Number.Hex */
-.highlight .mi { color: #999 } /* Literal.Number.Integer */
+.highlight .mi { color: #f60 } /* Literal.Number.Integer */
 .highlight .mo { color: #f60 } /* Literal.Number.Oct */
 .highlight .sb { color: #c30 } /* Literal.String.Backtick */
 .highlight .sc { color: #c30 } /* Literal.String.Char */
