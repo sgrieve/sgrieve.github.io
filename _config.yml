@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'sgrieve'
+title:            'why does that happen?'
 tagline:          'A record of what I learn'
-description:      'To keep track of things I should remember.'
+description:      'Keeping track of things I should remember. Mostly code [c++, python], version control and occasional GIS & things related to academia.'
 url:              http://sgrieve.github.com
 baseurl:          /
 
