@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            'why does that happen?'
 tagline:          'A record of what I learn'
-description:      'Keeping track of things I should remember. Mostly code [c++, python], version control and occasional GIS & things related to academia.'
+description:      'Keeping track of things I should remember. C++, Python, version control, GIS et al.'
 url:              http://sgrieve.github.com
 baseurl:          /
 
