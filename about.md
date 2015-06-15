@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-I'm a geomorphologist who writes a lot of code and is interested in hillslopes and
-sediment transport, you can learn more about me [here](http://www.geos.ed.ac.uk/homes/s0675405/)
+I'm a geomorphologist who writes a lot of code. I'm interested in hillslopes and
+sediment transport and you can learn more about me [here](http://www.geos.ed.ac.uk/homes/s0675405/)
 and can check my github page [here](https://github.com/sgrieve). 
 
 I often find myself searching docs and stackoverflow for things that I swear I have read before,
