@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Python Imaging Libaray
+title: Python Imaging Library
 ---
 
-Python Imaging Libaray
+Python Imaging Library
 ------------------
 
 In the last post I made this image:
