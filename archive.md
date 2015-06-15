@@ -3,8 +3,7 @@ layout: page
 title: Archive
 ---
 
-I want to put an archive of posts here.
-
+Here is an easily searchable list of all posts on this blog.
 
 <ul>
   {% for post in site.posts %}
@@ -13,3 +12,6 @@ I want to put an archive of posts here.
     </li>
   {% endfor %}
 </ul>
+
+
+Some useful information may also exist on my old [GIS blog](http://pygis.blogspot.com).
