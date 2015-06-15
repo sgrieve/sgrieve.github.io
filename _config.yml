@@ -9,9 +9,9 @@ relative_permalinks: true
 # Setup
 title:            'why does that happen?'
 tagline:          'A record of what I learn'
-description:      'Keeping track of things I should remember. C++, Python, version control, GIS et al.'
+description:      'Keeping track of things I should remember. C++, Python, version control, GIS, et al.'
 url:              http://sgrieve.github.com
-baseurl:          /
+baseurl:          http://sgrieve.github.io/
 
 author:
   name:           'Stuart Grieve'
