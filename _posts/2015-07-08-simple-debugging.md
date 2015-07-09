@@ -15,15 +15,16 @@ in your gcc command. The line in the makefile should look something like this:
 
 
 {% highlight c  %}
-CFLAGS= -c -Wall -O3 -g
+CFLAGS= -c -Wall -g
 {% endhighlight %}
 
 Where:
 
-* `-c` - ? - ?
+* `-c` - Compile but do not link the source files.
 * `-Wall` - Warn All - Outputs all compiler warnings.
-* `-O3` - Optimize - ?
-* `-g` - Debug - ?
+* `-g` - Debug - Produce debugging information
+
+More info on these and other args can be found [here](http://www.dsm.fordham.edu/cgi-bin.pl?topic=g++).
 
 ## Run gdb
 
@@ -39,7 +40,7 @@ Now, at the gdb prompt, give it any arguments and the code will run until it rea
 an exception:
 
 {% highlight sh  %}
-gdb> run <arg1> <arg2> <arg3>
+(gdb) run <arg1> <arg2> <arg3>
 {% endhighlight  %}
 
 ## Backtrace
@@ -48,9 +49,8 @@ The last step is to get some detailed info on where an exception occurred, a goo
 point from this is to use `backtrace`
 
 {% highlight sh  %}
-gdb> bt
+(gdb) bt
 {% endhighlight  %}
-
 
 There is obviously much more to gdb than what is here, but this guide will get you
 to the point of being able to better interrogate errors using the [gdb man page](http://www.gnu.org/software/gdb/documentation/).
