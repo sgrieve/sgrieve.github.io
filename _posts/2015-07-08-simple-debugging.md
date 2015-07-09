@@ -4,9 +4,9 @@ title: Using gdb To Debug C++
 ---
 
 When trying to find the precise point in your code that causes a crash, it is often useful to
-use [gdb]() to debug the code. I always forget the basic syntax to get it running so
+use [gdb](http://www.gnu.org/software/gdb/documentation/) to debug the code. I always forget the basic syntax to get it running so
 here is a very simple overview. This is by no means exhaustive, but should serve as a
-jumping off point for using GDB.
+jumping off point for using gdb.
 
 ## Compiler Flags
 
@@ -53,4 +53,4 @@ gdb> bt
 
 
 There is obviously much more to gdb than what is here, but this guide will get you
-to the point of being able to better interrogate errors using the [gdb man page]().
+to the point of being able to better interrogate errors using the [gdb man page](http://www.gnu.org/software/gdb/documentation/).
