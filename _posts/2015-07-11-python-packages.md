@@ -17,7 +17,7 @@ packages using a command something like this:
 
 But if you don't have it installed by default, as is the case for any python installs
 before version 2.7.8 and 3.3, you need to install it first. Download the file
-`get-pip-.py` from [here](https://raw.github.com/pypa/pip/master/contrib/get-pip.py)
+`get-pip.py` from [here](https://raw.github.com/pypa/pip/master/contrib/get-pip.py)
 and run it at the command prompt with administrator privileges:
 
 `python get-pip.py`
