@@ -24,7 +24,7 @@ Where:
 * `-Wall` - Warn All - Outputs all compiler warnings.
 * `-g` - Debug - Produce debugging information
 
-More info on these and other args can be found [here](http://www.dsm.fordham.edu/cgi-bin.pl?topic=g++).
+More info on these and other args can be found [here](http://courses.cs.washington.edu/courses/cse326/02wi/unix/g++.html).
 
 ## Run gdb
 

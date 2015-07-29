@@ -28,7 +28,7 @@ particular use. We could also use iterators that point to subsets of the vector 
 knew the region of the vector that our data should be found in:
 
 {% highlight c %}
-if (find(myVec.begin()+100, myVec.begin()+200, myValue) != myVec.end()){
+if (find(myVec.begin()+3, myVec.begin()+9, myValue) != myVec.end()){
   //myValue is in the subset of the vector
 }
 else {

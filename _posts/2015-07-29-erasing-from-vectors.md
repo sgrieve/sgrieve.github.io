@@ -22,7 +22,7 @@ myVec.push_back(5);
 
 //print current vector contents to screen
 for (vector<int>::iterator it = myVec.begin(); it !=  myVec.end(); ++it){
- cout << \*it << " ";
+ cout << *it << " ";
 }
 cout << endl;  
 
@@ -42,7 +42,7 @@ vector<int>::iterator NewEnd = remove(myVec.begin(), myVec.end(), myValue);
 //NewEnd points to one past the end of the vector with the value 5 removed
 
 for (vector<int>::iterator it = myVec.begin(); it != NewEnd; ++it){
- cout << \*it<< " ";
+ cout << *it<< " ";
 
 }
 cout << endl;  
@@ -73,7 +73,7 @@ We can test that this has worked by attempting to write the whole vector to scre
 
 {% highlight c %}
 for (vector<int>::iterator it = myVec.begin(); it !=  myVec.end(); ++it){
- cout << \*it << " ";
+ cout << *it << " ";
 }
 cout << endl;  
 
