@@ -30,7 +30,7 @@ awk 'NR == 1 || NR % 2 == 0' > NewDataFile.csv
 {% endhighlight %}
 
 awk is a powerful scripting language for manipulating line based data, which has
-many functions well beyond the scope of this post, see this [guide](www.grymoire.com/Unix/Awk.html) for more details.
+many functions well beyond the scope of this post, see this [guide](http://www.grymoire.com/Unix/Awk.html) for more details.
 `NR` denotes the number of rows in the file, so using `NR == 1` will keep the header
 row of the file (line 1) and `NR % 2 == 0` will keep any line which has a line number
 divisible by 2. The contents of `NewDataFile.csv` would be:
