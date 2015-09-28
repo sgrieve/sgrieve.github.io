@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thining a Dataset
+title: Thinning a Dataset
 ---
 
 If you have a large plain text data file, that needs to be quickly plotted, it can be useful to
