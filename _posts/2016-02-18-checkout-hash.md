@@ -16,7 +16,7 @@ Or from the web interface for the repo. For example the SHA for a recent post on
 {% highlight sh %}
 
 commit a29c140c8aad0706694115ff66fc6321218fe38b
-Author: sgrieve <s.grieve [at] ed.ac.uk>
+Author: sgrieve >
 Date:   Fri Dec 11 16:24:43 2015 +0000
 
     New post
