@@ -26,7 +26,7 @@ And want to take every second row, and store them in a new file with the same st
 we can use `awk` at the unix shell:
 
 {% highlight sh %}
-awk 'NR == 1 || NR % 2 == 0' > NewDataFile.csv
+awk 'NR == 1 || NR % 2 == 0' DataFile.csv > NewDataFile.csv
 {% endhighlight %}
 
 awk is a powerful scripting language for manipulating line based data, which has
@@ -49,5 +49,5 @@ to a larger value to increase the thinning amount. If you have a data file with 
 the command is simplified to:
 
 {% highlight sh %}
-awk 'NR % 2 == 0' > NewDataFile.csv
+awk 'NR % 2 == 0' DataFile.csv > NewDataFile.csv
 {% endhighlight %}
