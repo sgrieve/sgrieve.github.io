@@ -1,0 +1,31 @@
+---
+layout: default
+title: Why does that happen?
+---
+
+<header class="post-header">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <h4>&mdash; Keeping track of things I should remember</h4>
+</br></br>
+</header>
+
+<div class="main-post-list">
+
+  <ol class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
+        <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time></div>
+        <hr class="post-list__divider">
+      </li>
+    {% endfor %}
+  </ol>
+
+  <hr class="post-list__divider ">
+
+  {% if paginator.previous_page or paginator.next_page %}
+      {% include pagination.html %}
+  {% endif %}
+
+</div>

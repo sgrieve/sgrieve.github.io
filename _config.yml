@@ -1,0 +1,40 @@
+# Site settings  https://unsplash.com/collections
+title: Stuart W D Grieve
+description: 'Geomorphologist. Programmer.'
+url: 'http://swdg.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Stuart Grieve'
+  email: stuart@swdg.io
+  twitter_username: GIStuart
+  github_username:  sgrieve
+  google_scholar_id: VwQbAzQAAAAJ
+
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+paginate_path: blog/page:num
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
