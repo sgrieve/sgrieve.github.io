@@ -3,7 +3,7 @@ layout: post
 title: Using GDAL to fix NoData issues
 ---
 
-If you grab some raster data and it has a wierd NoData value set, it may not work properly in LSDTopoTools. To fix this run this command:
+If you grab some raster data and it has a weird NoData value set, it may not work properly in LSDTopoTools. To fix this run this command:
 
 {% highlight sh  %}
 
