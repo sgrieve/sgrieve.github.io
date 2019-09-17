@@ -11,7 +11,7 @@ Talks
 
 [Lasers, Landslides and Bendy Bananas?!](https://swdg.io/public_talks/QMUL/) Departmental Seminar, School of Geography, Queen Mary University of London, **2019**
 
-Understanding rivers using the Space Shuttle, LSDTopoTools and HPC. Presented at RSLondonSouthEast, London, **2019**
+[Understanding rivers using the Space Shuttle, LSDTopoTools and HPC](https://swdg.io/rsl/). Presented at RSLondonSouthEast, London, **2019**
 
 [Geomorphic insight from high resolution topography: Is it reproducible?](https://sgrieve.github.io/presentations/bsg_2017.pdf)
 Wiley Award Keynote Lecture, BSG Annual General Meeting, Hull, **2017**
@@ -27,6 +27,9 @@ Presented at the BSG Annual General Meeting, Southampton, **2015**
 
 Posters
 ---
+
+[Fingerprinting landscape dynamics through fluvial network topology](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/BSG19_poster.pdf)  
+Presented at the BSG Annual General Meeting, Sheffield, **2019**
 
 [Relationships between zero order basin morphology and sediment transport](https://presentations.copernicus.org/EGU2019-4202_presentation.pdf)
 Presented at the EGU General Assembly, Vienna, **2019**
