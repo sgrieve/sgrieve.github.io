@@ -9,6 +9,25 @@ Topographic Analysis
 
 A primary theme of my research is the analysis of high resolution topographic data which has motivated my work on the [LSDTopoTools project](lsdtopotools.github.io) where I have developed algorithms to quantify hillslope properties, route flow across surfaces, compute basin average metrics and calculate rates of topographic shielding for decaying cosmic ray particles.
 
+
+Forest-landscape interactions
+-----------------------------
+
+I am currently co-I on a UKRI FLF project using high resolution remote sensing and data science to understand how European forests are responding to climate change. Specifically, I am integrating TLS and UAV measurements with topographic data to understand the linkages between trees and abiotic processes within forested landscapes.
+
+
+Planetary surface processes
+---------------------------
+
+Terrestrial topographic analysis techniques provide a window into landscape evolution and allow the reconstruction of past environments. On Mars, landscapes are older but still record information about the processes that shaped them. I am working to develop topographic analysis tools for the Martian context, which can exploit the wealth of HiRISE and CTX data available across the planet. These analyses will be able to shed new light on the early Martian climate and sediment transport processes.
+
+
+Erosion and transport of environmental microplastics
+----------------------------------------------------
+
+My interest in pollution and sediment transport has led to work developing new models of microplastic erosion and transport from coastal landfills. These sites are areas of significant environmental concern, acting as a source of contaminated sediments and microplastics. This work integrates TLS scanning of actively eroding sites with the development of models of how these eroded sediments are stored and transported in estuarine environments.
+
+
 Sediment Flux
 -------------
 
@@ -27,4 +46,4 @@ I am committed to performing open source research, and all of my research softwa
 Novel Computational Methods
 ----------------------------
 
-I have developed a python package, [spatial-efd](https://pypi.python.org/pypi/spatial_efd), to support geoscientists in performing elliptical Fourier analysis of features stored in shapefiles.  This method allows the averaging of a collection of contours or the generalization of complex shapes within either geographic or normalized coordinate systems.
+I have developed a python package, [spatial-efd](https://pypi.python.org/pypi/spatial_efd), to support geoscientists in performing elliptical Fourier analysis of features stored in shapefiles. This method allows the averaging of a collection of contours or the generalization of complex shapes within either geographic or normalized coordinate systems.

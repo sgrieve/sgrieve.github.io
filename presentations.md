@@ -28,6 +28,8 @@ Presented at the BSG Annual General Meeting, Southampton, **2015**
 Posters
 ---
 
+[Inverting fluvial network topology to understand landscape dynamics](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/EGU_2020_poster.pdf) Presented at EGU2020: Sharing Geoscience Online, **2020**
+
 [Fingerprinting landscape dynamics through fluvial network topology](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/BSG19_poster.pdf)  
 Presented at the BSG Annual General Meeting, Sheffield, **2019**
 

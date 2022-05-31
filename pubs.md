@@ -6,6 +6,15 @@ permalink: pubs/
 
 Here is a list of my peer reviewed publications, for citation metrics and other stuff, check out my [Google Scholar](https://scholar.google.co.uk/citations?user=VwQbAzQAAAAJ&hl=en). All of these publications are open access so the links below will allow you to get the full text. Use the bibtex links to easily add the papers to your reference manager of choice.
 
+\years{2021}Gailleton, B., Mudd, S.M., Clubb, F.J., \textbf{Grieve, S.W.D.}, Hurst, M.D., \textit{Impact of changing concavity indices on channel steepness and divide migration metrics.} J. Geophys. Res. Earth Surf. \paperlinks{10.1029/2020JF006060}\\[0.05cm]
+
+\years{2021}Gabet, E.J., Mudd, S.M., Wood, R.W., \textbf{Grieve, S.W.D.}, Binnie, S.A., Dunai, T.J., \textit{Hilltop Curvature Increases with the Square Root of Erosion Rate.} J. Geophys. Res. Earth Surf. \paperlinks{10.1029/2020JF005858}\\[0.05cm]
+
+\years{2020} \textbf{Grieve, S.W.D.}, Clubb, F.J., Mudd, S.M., \textit{Reproducible topographic analysis.} In Tarolli, P., Mudd S.M. (Ed.) Remote Sensing of Geomorphology. \paperlinks{10.1016/B978-0-444-64177-9.00012-6}\\[0.05cm]
+
+Clubb, F.J., Mudd, S.M., Hurst, M.D., Grieve, S.W.D. *Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction.*, **2020** Geology. doi:[10.1038/s41586-019-1558-8](https://doi.org/10.1130/G46939.1) [Download bibtex](http://www.doi2bib.org/#/doi/10.1130/G46939.1)
+
+
 1. Chen, S-a, K. Michaelides, S.W.D. Grieve, M.B. Singer. *Aridity is expressed in river topography globally*, **2019**. Nature doi:[10.1038/s41586-019-1558-8](https://doi.org/10.1038/s41586-019-1558-8) [Download bibtex](http://www.doi2bib.org/#/doi/10.1038/s41586-019-1558-8)
 1.  Hurst, M.D., S.W.D. Grieve, S.M. Mudd, F.J. Clubb. *Detection of channel-hillslope coupling along a tectonic gradient.*, **2019**. Earth and Planetary Science Letters 552 doi:[10.1016/j.epsl.2019.06.018](https://doi.org/10.1016/j.epsl.2019.06.018) [Download bibtex](http://www.doi2bib.org/#/doi/10.1016/j.epsl.2019.06.018)
 1.  Grieve, S. W. D., T. C. Hales, R. N. Parker, S. M. Mudd, and F. J. Clubb. *Controls on Zero‐Order Basin Morphology*, **2018**. Journal of Geophysical Research: Earth Surface 123 (12) doi:[http://www.doi2bib.org/#/doi/10.1029/2017JF004453](https://doi.org/10.1029/2017JF004453) [Download bibtex](http://www.doi2bib.org/#/doi/10.1029/2017JF004453)
