@@ -6,6 +6,8 @@ permalink: pubs/
 
 Here is a list of my peer reviewed publications, for citation metrics and other stuff, check out my [Google Scholar](https://scholar.google.co.uk/citations?user=VwQbAzQAAAAJ&hl=en). All of these publications are open access so the links below will allow you to get the full text. Use the bibtex links to easily add the papers to your reference manager of choice.
 
+
+1. Flynn, W.R.M., H.J.F. Owen, S.W.D. Grieve, E.R. Lines, *Quantifying vegetation indices using TLS: methodological complexities and ecological insights from a Mediterranean forest.* **2023** Biogeosciences doi:[10.5194/bg-20-2769-2023](https://doi.org/10.5194/bg-20-2769-2023) [Download bibtex](http://www.doi2bib.org/#/doi/10.5194/bg-20-2769-2023)
 1. Allen, M.J., S.W.D. Grieve, H.J.F. Owen, E.R. Lines, *Tree species classification from complex laser scanning data in Mediterranean forests using deep learning.* **2022** Methods in Ecology and Evolution doi:[110.1029/2020JF006060](https://doi.org/10.1111/2041-210X.13981) [Download bibtex](http://www.doi2bib.org/#/doi/10.1111/2041-210X.13981)
 1. Gailleton, B., S.M. Mudd, F.J. Clubb, S.W.D. Grieve, M.D. Hurst. *Impact of changing concavity indices on channel steepness and divide migration metrics.* **2021** Journal of Geophysical Research: Earth Surface doi:[110.1029/2020JF006060](https://doi.org/10.1029/2020JF006060) [Download bibtex](http://www.doi2bib.org/#/doi/10.1029/2020JF006060)
 1. Gabet, E.J., S.M. Mudd, R.W. Wood, S.W.D. Grieve, S.A. Binnie, T.J. Dunai. *Hilltop Curvature Increases with the Square Root of Erosion Rate.* **2021** Journal of Geophysical Research: Earth Surface doi:[10.1029/2020JF005858](https://doi.org/10.1029/2020JF005858) [Download bibtex](http://www.doi2bib.org/#/doi/10.1029/2020JF005858)

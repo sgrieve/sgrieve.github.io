@@ -9,6 +9,8 @@ Here are links to some talks and posters I have presented at conferences in the 
 Talks
 ---
 
+[Building *good enough* digital workflows in the field](https://swdg.io/rsl23/) Presented at RSLondonSouthEast, **2023**
+
 [Lasers, Landslides and Bendy Bananas?!](https://swdg.io/public_talks/QMUL/) Departmental Seminar, School of Geography, Queen Mary University of London, **2019**
 
 [Understanding rivers using the Space Shuttle, LSDTopoTools and HPC](https://swdg.io/rsl/). Presented at RSLondonSouthEast, London, **2019**
@@ -27,6 +29,10 @@ Presented at the BSG Annual General Meeting, Southampton, **2015**
 
 Posters
 ---
+
+[High resolution forest-landscape interactions](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/EGU23_poster.pdf). Presented at the EGU General Assembly, Vienna. **2023**
+
+[Linking forests and landscapes in four dimensions](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/BSG22_poster.pdf). Presented at the BSG Annual Meeting, Northumbria. **2022**
 
 [Inverting fluvial network topology to understand landscape dynamics](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/EGU_2020_poster.pdf) Presented at EGU2020: Sharing Geoscience Online, **2020**
 
