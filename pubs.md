@@ -6,6 +6,8 @@ permalink: pubs/
 
 Here is a list of my peer reviewed publications, for citation metrics and other stuff, check out my [Google Scholar](https://scholar.google.co.uk/citations?user=VwQbAzQAAAAJ&hl=en). All of these publications are open access so the links below will allow you to get the full text. Use the bibtex links to easily add the papers to your reference manager of choice.
 
+1. Wu, N., S.W.D. Grieve, A.J. Manning, K.L. Spencer *Marine snow as vectors for microplastic transport: Multiple aggregation cycles account for the settling of buoyant microplastics to deep-sea sediments.* **2025** Limnology and Oceanography doi:[10.1002/lno.12814](https://doi.org/10.1002/lno.12814) [Download bibtex](http://www.doi2bib.org/bib/10.1002/lno.12814)
+
 1. Singer, M.B., S.W.D. Grieve, S-a. Chen, K. Michaelides *Climatic Controls on the Length and Shape of the World's Drainage Basins.* **2024** Geophysical Research Letters doi:[10.1029/2024GL111220](https://doi.org/10.1029/2024GL111220) [Download bibtex](http://www.doi2bib.org/bib/10.1029/2024GL111220)
 
 1. Wu, N., S.W.D. Grieve, A.J. Manning, K.L. Spencer *Flocs as vectors for microplastics in the aquatic environment.* **2024** Nature Water doi:[10.1038/s44221-024-00332-4](https://doi.org/10.1038/s44221-024-00332-4) [Download bibtex](http://www.doi2bib.org/bib/10.1038/s44221-024-00332-4)
