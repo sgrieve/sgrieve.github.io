@@ -9,6 +9,8 @@ Here are links to some talks and posters I have presented at conferences in the 
 Talks
 ---
 
+[Forest-landscape dynamics: Terrestrial Laser Scanning connects forest structure and landscape form in three dimensions.](https://www.youtube.com/watch?v=Q4dVlCIhW_M) Presented at Landscapes Live, **2025**
+
 [Building *good enough* digital workflows in the field](https://swdg.io/rsl23/) Presented at RSLondonSouthEast, **2023**
 
 [Lasers, Landslides and Bendy Bananas?!](https://swdg.io/public_talks/QMUL/) Departmental Seminar, School of Geography, Queen Mary University of London, **2019**
@@ -29,6 +31,8 @@ Presented at the BSG Annual General Meeting, Southampton, **2015**
 
 Posters
 ---
+
+[Geomorphometric monitoring of eroding historic coastal landfills.](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/EGU25_poster.pdf). Presented at the EGU General Assembly, Vienna. **2025**
 
 [High resolution forest-landscape interactions](https://github.com/sgrieve/sgrieve.github.io/raw/master/presentations/EGU23_poster.pdf). Presented at the EGU General Assembly, Vienna. **2023**
 
